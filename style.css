@@ -1,0 +1,78 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float:none ;
+    background: white ; 
+    padding:10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  
+  }
+  .result_para_tag span
+  {
+  white-space: pre-line;
+  }
+ .copy_right_footer {
+  position: fixed;
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  bottom: 0;
+  width: 100%;
+  background-color:rgba(30, 154, 26, 0.911);
+  line-height: 2;
+text-align: center;
+
+  box-shadow:8px 8px 8px rgb(0, 0, 0);
+  border-radius: 40px; 
+  padding:20px;
+  height: 7.5%;
+ }
+ .h5_class
+ {
+   float:none ;
+   background: rgba(138, 138, 138, 0.472) ; 
+   opacity: 34;
+   padding:20px;
+   border-radius: 30px; 
+   color: black;
+   box-shadow:8px 8px 8px rgb(0, 0, 0);
+   width: 50%;
+   margin: 15px;
+   height: 200px;
+ }
+.bottle_png
+ {
+height: 100px;
+width: 150px;
+ }
+ .mobile
+ {
+height: 100px;
+width: 120px;
+ }
+ .mouse
+ {
+height: 110px;
+width: 110px;
+ } 
+ .lock
+ {
+height: 100px;
+width: 100px;
+ }
